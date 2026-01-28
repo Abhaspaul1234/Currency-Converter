@@ -1,4 +1,4 @@
-const API_KEY = "6e833a4add595c2bf058de4e";
+import { API_KEY } from "./config.js";
 
 const getURL = (baseCurrency) => {
   return `https://v6.exchangerate-api.com/v6/${API_KEY}/latest/${baseCurrency}`;
