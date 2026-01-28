@@ -33,3 +33,7 @@ To run this project locally:
 2. Add your API key:
    ```js
    export const API_KEY = "YOUR_API_KEY";
+   
+## 🎯 Purpose
+This project was built as part of my learning journey to strengthen
+JavaScript and API integration skills.
